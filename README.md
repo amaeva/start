@@ -1,2 +1,3 @@
 # start
-My first repository
+My first repository.
+For first commit.
